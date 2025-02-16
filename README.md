@@ -1,4 +1,4 @@
-# Plataforma de administração de clientes (Ex: Petshop).
+# Aplicação desenvolvida para consulta de informações climáticas em tempo real.
 
 Um projeto desenvolvido para demonstrar minhas habilidades em Javascript focando no consumo de API.
 
